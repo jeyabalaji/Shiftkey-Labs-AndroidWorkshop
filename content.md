@@ -27,3 +27,11 @@ Android part:
 5. Dont change the activity name and click next. (If you are planning to change the activity name the initial content provider should be changed in all appropriate places. 
 
 6. Click finish. 
+**********************************************************************************
+7. Open the project explorer on the top right corner of the and navigate to res>>layout>>activity_main.xml
+
+8. Drag the webview component from the palette and place it on the main screen. 
+
+9. Assign an ID for the newly dragged webview using the properties tab on the right side. 
+
+10. 
