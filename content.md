@@ -36,4 +36,12 @@ Android part:
 
 10. Goto app>>java>>packagename>>MainActivity.java and open the file.
 
-11. 
+11. Create an object of type WebView.( WebView nameOfWebview; )
+
+12. Declare the URL of the webpage as type String. ( String url = "https://www.yoursite.wordpress.com" )
+
+13. Associate teh webview object to the actual webview in Xml file using findViewById(). ( wv = (WebView)findViewById(R.id.id_name); )
+
+14. Use the additional settings that are available in the MainActivity.java file of this repo if needed. 
+
+15. 
