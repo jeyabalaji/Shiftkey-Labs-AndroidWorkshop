@@ -44,4 +44,4 @@ Android part:
 
 14. Use the additional settings that are available in the MainActivity.java file of this repo if needed. 
 
-15. 
+15. Load the the url to the webview using <webviewname>.loadUrl(<URL stirng>); 
