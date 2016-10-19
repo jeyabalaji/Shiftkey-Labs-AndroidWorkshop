@@ -34,4 +34,6 @@ Android part:
 
 9. Assign an ID for the newly dragged webview using the properties tab on the right side. 
 
-10. 
+10. Goto app>>java>>packagename>>MainActivity.java and open the file.
+
+11. 
