@@ -1,5 +1,5 @@
 # android-web
-Shiftkey Lab's Android Web App workshop
+Shiftkey Lab's Android Web App workshop.
 Welcome to the Shiftkey Lab's Android web app development tutorial. 
 
 Resources Required: 
