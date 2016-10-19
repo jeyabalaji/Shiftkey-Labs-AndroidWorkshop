@@ -9,5 +9,5 @@ This can be downloaded from https://developer.android.com/studio/index.html
 Download the Android Studio bundle along with the Android SDK. 
 Android studio requires JDK and JRE to start the instalation. 
 
-Files in this Github Repo will have the essential files that are required to build the Webview based application.
+Files in this Github Repo are the essentials that are required to build the Webview based application.
 
