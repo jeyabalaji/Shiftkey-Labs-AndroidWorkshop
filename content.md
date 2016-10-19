@@ -49,6 +49,20 @@ Android part:
 16. Goto app>>manifests>>AndroidManifest.xml and open the file.
 
 17. Add the internet permission after the </application> .
-<uses-permission android:name="android.permission.INTERNET"/>
+"<uses-permission android:name="android.permission.INTERNET"/>"
 
 ************************************************************************************************
+To run the app on Android Device: 
+
+18. Connect your android device to your PC/Mac. 
+
+19. Goto settings>>about phone>>click on build number for 5 times. (Proceed to next step if you have enabled developper options)
+
+20. Enable USB Debugging in the Developper options. 
+
+21. If you want to run the app on a virtual device, Click on run app>> Create a new virtual device. 
+
+22. From the list of available devices (either physical or virtual) select a device and click ok.
+
+Voila!!!!
+Your app is ready! :-)
