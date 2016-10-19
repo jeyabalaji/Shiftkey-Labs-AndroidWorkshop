@@ -45,3 +45,10 @@ Android part:
 14. Use the additional settings that are available in the MainActivity.java file of this repo if needed. 
 
 15. Load the the url to the webview using <webviewname>.loadUrl(<URL stirng>); 
+
+16. Goto app>>manifests>>AndroidManifest.xml and open the file.
+
+17. Add the internet permission after the </application> .
+<uses-permission android:name="android.permission.INTERNET"/>
+
+************************************************************************************************
