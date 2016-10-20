@@ -20,15 +20,15 @@ Android part:
 
 2. Enter a application name and click next
 
-3. Select the minimum target sdk in which you application should be supported. and click next.
+3. Select the minimum target sdk in which your application should be supported. and click next.
 
 4. Select Empty activity and click next.
 
-5. Dont change the activity name and click next. (If you are planning to change the activity name the initial content provider should be changed in all appropriate places. 
+5. Dont change the activity name and click next. (If you are planning to change the activity name, the initial content provider should be changed in all appropriate places. 
 
 6. Click finish. 
 **********************************************************************************
-7. Open the project explorer on the top right corner of the and navigate to res>>layout>>activity_main.xml
+7. Open the project explorer on the top right corner of the android studio and navigate to res>>layout>>activity_main.xml
 
 8. Drag the webview component from the palette and place it on the main screen. 
 
@@ -40,11 +40,11 @@ Android part:
 
 12. Declare the URL of the webpage as type String. ( String url = "https://www.yoursite.wordpress.com" )
 
-13. Associate teh webview object to the actual webview in Xml file using findViewById(). ( wv = (WebView)findViewById(R.id.id_name); )
+13. Associate the webview object to the actual webview in Xml file using findViewById(). ( wv = (WebView)findViewById(R.id.id_name); )
 
 14. Use the additional settings that are available in the MainActivity.java file of this repo if needed. 
 
-15. Load the the url to the webview using <webviewname>.loadUrl(<URL stirng>); 
+15. Load the url to the webview using <webviewname>.loadUrl(<URL stirng>); 
 
 16. Goto app>>manifests>>AndroidManifest.xml and open the file.
 
@@ -56,9 +56,9 @@ To run the app on Android Device:
 
 18. Connect your android device to your PC/Mac. 
 
-19. Goto settings>>about phone>>click on build number for 5 times. (Proceed to next step if you have enabled developper options)
+19. Goto settings>>about phone>>click on build number for 5 times. (Proceed to next step if you have enabled developer options)
 
-20. Enable USB Debugging in the Developper options. 
+20. Enable USB Debugging in the Developer options. 
 
 21. If you want to run the app on a virtual device, Click on run app>> Create a new virtual device. 
 
